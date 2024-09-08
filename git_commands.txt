@@ -1,0 +1,50 @@
+
+    2  wns --version
+    3  wsl --version
+    4  wsl
+    5  wsl.exe --install
+    6  wsl --install
+    7  terraform init
+    8  terraform apply
+    9  git init
+   10  git add testing.py
+   11  git status
+   12  git commit -m "added testing file"
+   13  git status
+   14  histery
+   15  history
+     1  ls
+    2  wns --version
+    3  wsl --version
+    4  wsl
+    5  wsl.exe --install
+    6  wsl --install
+    7  terraform init
+    8  terraform apply
+    9  git init
+   10  git add testing.py
+   11  git status
+   12  git commit -m "added testing file"
+   13  git status
+   14  histery
+   15  history
+   16  git status
+   17  git init
+   18  git commit -m "added git commands"
+   19  git status
+   20  git status
+   21  git status
+   22  git init
+   23  git status
+   24  git add <git_commands.txt>"add file"
+   25  git add <git_commands.txt>
+   26  git remote add origin https://github.com/Pratiklahamge/Github-for-Devops-workshop.git
+   27  git remote -v
+   28  git push origin master
+   29  git push origin master
+   30  pwd
+   31  mkdir git-demo
+   32  ls
+   33  ls -l
+   34  git clone https://github.com/Pratiklahamge/90DaysOfDevOps.git
+   35  history
