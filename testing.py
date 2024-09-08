@@ -1,0 +1,1 @@
+print("Hello frinds this is my paython code")
